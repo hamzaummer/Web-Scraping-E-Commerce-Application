@@ -282,8 +282,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [GitHub Issues](https://github.com/yourusername/web-scraping-ecom-app/issues)
-3. Create a new issue with detailed information about your problem
+2. Create a new issue with detailed information about your problem and reach out to me at the E-Mail provided below
+   <br>
+   G-Mail : mohammedhamza7428@gmail.com
 
 ---
 
